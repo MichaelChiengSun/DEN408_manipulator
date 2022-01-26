@@ -5,8 +5,8 @@ Simulink model is shown in .slx file and model parameters are given in .m file.
 The result data is saved in the .mat file and several figures are shown to be analyzed.
 
 The model consist of 5 subsystems:
-The Irobot Inverse subsystem
-Non-Dimensional Torques subsystem
-Auxiliary Control subsystem
-Demand subsystem
+The Irobot Inverse subsystem, 
+Non-Dimensional Torques subsystem, 
+Auxiliary Control subsystem, 
+Demand subsystem, 
 Phased input subsystem
